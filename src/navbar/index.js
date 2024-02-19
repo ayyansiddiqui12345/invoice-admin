@@ -1,12 +1,16 @@
 import React from "react";
+import Button from 'react-bootstrap/Button';
 import styles from "./navbar.module.css";
 export const NavbarComponent = () => {
   return (
-    <div className={styles.container}>
-      <div className={styles.navbar}>
-        <div
+    <div className={styles.container}
+      contentEditable={false}
+    >
+      <navbar className={styles.navbar} >
+        <h3
           style={{
             color: "#000",
+            userSelect: "none",
             fontFamily: "Lato",
             fontSize: "20px",
             fontStyle: "normal",
@@ -15,10 +19,17 @@ export const NavbarComponent = () => {
             margin: "0",
           }}
         >
+          {" "}
+          Product Details{" "}
+        </h3>
 
-          Add Product
-        </div>
-      </div>
+
+        
+{/*         
+        <div className={styles.button}>
+        <Button variant="success">Add Product</Button>
+        </div> */}
+      </navbar>
     </div>
   );
 };

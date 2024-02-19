@@ -30,7 +30,9 @@ export const SidebarComponent = () => {
 
   return (
     <div>
-      <div className={styles.sidebar1}>
+      <div className={styles.sidebar1} style={{
+        userSelect: "none",
+      }}>
         <div className={styles.brandname}>
           <svg
             xmlns="http://www.w3.org/2000/svg"
@@ -44,7 +46,7 @@ export const SidebarComponent = () => {
               fill="#155932"
             />
           </svg>
-          <strong>Aziz Bhai Invioce Admin</strong>
+          <strong>Aziz Bhai Invoice Admin</strong>
         </div>
 
         <hr
