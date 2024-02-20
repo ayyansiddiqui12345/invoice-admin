@@ -15,20 +15,25 @@ export const TableComponent = () => {
                     </tr>
                     {/* columnend */}
                     {/* New row 1*/}
-                    <tr> 
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
+
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px',  }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
                         <td style={{ padding: '8px 50px' }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsuPAJuIiHNjm_caay0OJDBYCz26VknrLWuw&usqp=CAU" style={{ height: "20px", width: "20px" }}></img> </td>
                         <td style={{ padding: '8px 50px' }}><img src="https://cdn-icons-png.flaticon.com/128/10629/10629723.png" style={{ height: "20px", width: "20px"}}></img> </td>
                         <td style={{ padding: '8px 50px' }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2GMSlHNvhza4X9lQo0-wi7IbOKb9atxowG29RaxDlhqfBY7QRFS7KAvjObtRrJ8nqC4A&usqp=CAU" style={{ height: "15px", width: "15px" }}></img> </td>
+
                     </tr>
+
 
 
 
                   {/* row2 */}
   
-                    <tr>
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -39,7 +44,8 @@ export const TableComponent = () => {
   
   
                     {/* row3 */}
-                    <tr>
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -49,7 +55,8 @@ export const TableComponent = () => {
                     </tr>
   
                     {/* row4 */}
-                    <tr>
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -59,8 +66,8 @@ export const TableComponent = () => {
                     </tr>
   
                     {/* row5 */}
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
 
-                    <tr>
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -73,7 +80,8 @@ export const TableComponent = () => {
   
                     {/* row6 */}
   
-                    <tr>
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -85,7 +93,9 @@ export const TableComponent = () => {
                     {/* row7 */}
   
   
-                    <tr>
+                     
+                          <tr style={{ borderBottom: '1px solid silver' }}> 
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -95,7 +105,8 @@ export const TableComponent = () => {
                     </tr>
                     {/* row8 */}
   
-                    <tr>
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -106,7 +117,8 @@ export const TableComponent = () => {
                     {/* row9 */}
   
   
-                    <tr>
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
+
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
@@ -118,7 +130,7 @@ export const TableComponent = () => {
   
                     {/* row10 */}
 
-                    <tr>
+                    <tr style={{ borderBottom: '1px solid silver' }}> 
                         <td style={{ padding: '8px ' }}>Sidemirror</td>
                         <td style={{ padding: '8px 50px' }}>564643531  </td>
                         <td style={{ padding: '8px 50px', }}><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqYHYcjE4l84vkCJmHxCthnjTj89sV4F4grQ&usqp=CAU" style={{ height: "40px", width: "60px" }}></img> </td>
